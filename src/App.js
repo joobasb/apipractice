@@ -3,7 +3,7 @@ import Navbar from './Components/Navbar';
 import Home from './Pages/Home';
 import Exchange from './Pages/Exchange';
 import Footer from './Components/Footer';
-import Movies from './Pages/Movies';
+import Moviepage from './Pages/Moviepage';
 import { Routes, Route } from 'react-router-dom';
 
 function App() {
@@ -14,7 +14,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home/>} />
         <Route path="exchange" element={<Exchange/>} />
-        <Route path="movies" element={<Movies />} />
+        <Route path="moviepage" element={<Moviepage />} />
       </Routes>
     </div>
     <Footer />

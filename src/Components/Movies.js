@@ -5,7 +5,7 @@ import '../Components/Movies.css'
 
 const API_KEY = ''
 
-export default function Moviesearch() {
+export default function Movies() {
     const [search, setSearch] = useState('')
     const [movie, setMovie] = useState([])
   

@@ -16,7 +16,7 @@ export default function Navbar() {
                           <Link to="/exchange" className="nav-link"><span>e x c h a n g e &nbsp; r a t e</span></Link>
                       </li>
                       <li className="nav-item">
-                          <Link to="/movies" className="nav-link"><span>m o v i e s</span></Link>
+                          <Link to="/moviepage" className="nav-link"><span>m o v i e s</span></Link>
                       </li>
                   </ul>
               </div>
