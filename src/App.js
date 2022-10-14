@@ -3,7 +3,7 @@ import Navbar from './Components/Navbar';
 import Home from './Pages/Home';
 import Exchange from './Pages/Exchange';
 import Footer from './Components/Footer';
-import Movies from './Components/Movies';
+import Movies from './Pages/Movies';
 import { Routes, Route } from 'react-router-dom';
 
 function App() {
