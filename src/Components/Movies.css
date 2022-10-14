@@ -1,0 +1,30 @@
+.movie-container {
+    margin: 10px;
+}
+
+.movie-col {
+    margin: 30px;
+    text-align: center;
+    background: #7a6362;;
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.movieposter {
+    width: 200px;
+}
+
+a {
+    color: #53403f;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #BFCBD6;
+}
+
+button {
+    border-radius: 5px;
+    margin-left: 5px;
+    background-color: #D5BFBE;
+  }
